@@ -4,4 +4,4 @@ wget -O goflyway.tar.gz http://github.com/coyove/goflyway/releases/download/v${V
 tar -xjvf goflyway.tar.gz
 
 chmod +x goflyway 
- ./goflyway -k=$KEY -l=":80" > /tmp/goflyway.log 2>&1 &
+ ./goflyway -k=${KEY} -l=":80" > /tmp/goflyway.log 2>&1 &
