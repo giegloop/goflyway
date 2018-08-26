@@ -21,3 +21,5 @@ Check this [wiki](https://github.com/coyove/goflyway/wiki/Android-%E5%AE%A2%E6%8
 
 ## You can deploy it using this button.
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/giegloop/goflyway)
+
