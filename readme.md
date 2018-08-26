@@ -19,5 +19,5 @@ For more info, please refer to the following links.
 
 Check this [wiki](https://github.com/coyove/goflyway/wiki/Android-%E5%AE%A2%E6%88%B7%E7%AB%AF) for details.
 
-# You can deploy it using this button.
+## You can deploy it using this button.
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
