@@ -3,12 +3,12 @@
   "description": "deploy goflyway to Heroku.",
   "keywords": ["goflyway"],
   "env": {
-    "goflyway_ver": {
+    "VER": {
        "description": "输入goflyway 版本号",
-       "value": "v1.2.0a"
+       "value": "1.2.0a"
      }, 
-    "Password": {
-       "description": "password",
+    "KEY": {
+       "description": "设置 加密 key",
        "value": "30522b10-a8d2-11e8-978c-f0d5bf44df99"
      },
   },
