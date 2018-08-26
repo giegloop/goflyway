@@ -1,7 +1,6 @@
-#FROM alpine:latest
-FROM heroku/heroku:18
+FROM alpine:latest
 
-RUN mkdir -m 777 /goflywaybin 
+RUN mkdir -m 777 /goflyway
  
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh 
